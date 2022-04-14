@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Tajawal&display=swap');
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+ }
+
+ body {
+     background-image: url('../images/foto\ emilia.jpeg') ;
+     background-repeat: no-repeat;
+     background-size: 75%;
+     background-position-x: right;
+    }
+
+.div-enlace {
+    display: block;
+    color: black;
+    padding:  13px 25px ;
+    text-decoration: none;
+    
+}
+
+header .redes {
+    padding: 13px 25px;
+}
+
+
+main .titulo {
+    margin-top: 50px;
+    color: black;
+    margin-left: 15px;
+}
+
+main .subtitulo {
+    margin-top: 100px;
+    font-size: 40px;
+    margin-left: 15px;
+}
+
+main .subtitulo h2 {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+
+
+
+
